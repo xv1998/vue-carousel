@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 1733941 */
+    src: url('//at.alicdn.com/t/font_1733941_s3fxujxf768.eot');
+    src: url('//at.alicdn.com/t/font_1733941_s3fxujxf768.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1733941_s3fxujxf768.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1733941_s3fxujxf768.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1733941_s3fxujxf768.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1733941_s3fxujxf768.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 0.8em;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-back:before{
+    content: "\e716";
+}
+.icon-search:before{
+    content: "\e614";
+    color: #fff;
+}
+.icon-phone:before{
+    content: '\e693';
+    color: #00B75B;
+}.icon-qq:before{
+    content: '\e6d8';
+    color: #00B75B;
+}.icon-web:before{
+    content: '\e6f5';
+    color: #00B75B;
+}.icon-email:before{
+    content: '\e61b';
+    color: #00B75B;
+}
+.icon-complete:before{
+    content: '\e615';
+    color: #00B75B;
+}
